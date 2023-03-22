@@ -1,6 +1,6 @@
 # Rust Guessing Game
 
-Guessing game tutorial from [ "the rust lang book" ](https://rust-lang.com/)
+Guessing game tutorial from [ "the rust lang book" ](https://rust-lang.com/) 
 
 ## Getting started
 
